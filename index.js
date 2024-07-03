@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["또바기 마을 전용 봇입니다","또바기 마을 전용 봇입니다"];
 
 
 let currentIndex = 0;
